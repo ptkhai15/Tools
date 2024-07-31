@@ -1,0 +1,19 @@
+Tor Tools
+
+🔹Nipe - Script to redirect all traffic from the machine to the Tor network.
+🔗https://github.com/GouveaHeitor/nipe
+
+🔹OnionScan - Tool for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
+🔗https://onionscan.org/
+
+🔹Tails - Live operating system aiming to preserve your privacy and anonymity.
+🔗https://tails.boum.org/
+
+🔹Tor - Free software and onion routed overlay network that helps you defend against traffic analysis.
+🔗https://www.torproject.org/
+
+🔹dos-over-tor - Proof of concept denial of service over Tor stress test tool.
+🔗https://github.com/skizap/dos-over-tor
+
+🔹kalitorify - Transparent proxy through Tor for Kali Linux OS.
+🔗https://github.com/brainfuckSec/kalitorify
